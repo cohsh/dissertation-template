@@ -1,4 +1,4 @@
-# Dissertation Template
+# My Dissertation Template
 - 博士論文の作成に使用したLaTeXファイルから骨組だけを抜き出したものです。
 - フォーマットは東京大学大学院理学系研究科物理学専攻における令和6年12月博士（理学）申請のものになります。
 
